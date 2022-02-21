@@ -281,5 +281,19 @@ export const DEFAULT_THEMES = {
     dimmedColor: "#D9DEEA",
     highlightColor: "#D9DEEA",
     lineHeight: 1.2
+  },
+  'city-lights': {
+    bgColor: "#1D252C",
+    textColor: "#B7C5D3",
+    punctuationColor: "#B7C5D3",
+    stringAndValueColor: "#68A1F0",
+    keywordTagColor: "#5ec4ff",
+    commentColor: "#41505E",
+    typeColor: "#008B94",
+    numberColor: "#e27e8d",
+    declarationColor: "#718CA1",
+    dimmedColor: "#41505E",
+    highlightColor: "#ebbf83",
+    lineHeight: 1.2
   }
 };
