@@ -253,5 +253,33 @@ export const DEFAULT_THEMES = {
     dimmedColor: "#4d4d4d",
     highlightColor: "#4d3663",
     lineHeight: 1.2
+  },
+  'nord-light': {
+    bgColor: "#E7EAF1",
+    textColor: "#3C4253",
+    punctuationColor: "#2E3440",
+    stringAndValueColor: "#A5BE8A",
+    keywordTagColor: "#85A1C2",
+    commentColor: "#D9DEEA",
+    typeColor: "#85A1C2",
+    numberColor: "#B18CAC",
+    declarationColor: "#6381AE",
+    dimmedColor: "#D9DEEA",
+    highlightColor: "#D9DEEA",
+    lineHeight: 1.2
+  },
+  'nord-dark': {
+    bgColor: "#3C4253",
+    textColor: "#E7EAF1",
+    punctuationColor: "#2E3440",
+    stringAndValueColor: "#A5BE8A",
+    keywordTagColor: "#85A1C2",
+    commentColor: "#D9DEEA",
+    typeColor: "#85A1C2",
+    numberColor: "#B18CAC",
+    declarationColor: "#6381AE",
+    dimmedColor: "#D9DEEA",
+    highlightColor: "#D9DEEA",
+    lineHeight: 1.2
   }
 };

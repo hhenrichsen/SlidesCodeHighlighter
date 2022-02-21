@@ -32,7 +32,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b4a3942a257e739b1391190aa1d3f733"
+    "revision": "f78cefdd5e82c125c607f6aba63df977"
   },
   {
     "url": "index.js",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
   },
   {
     "url": "themes.js",
-    "revision": "51941f0db2f7efedc49aed8a23658a73"
+    "revision": "ba9443af925cefbbcf5de6b5f033c632"
   },
   {
     "url": "webfontloader.js",
