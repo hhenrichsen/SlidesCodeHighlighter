@@ -271,7 +271,7 @@ export const DEFAULT_THEMES = {
   'nord-dark': {
     bgColor: "#3C4253",
     textColor: "#E7EAF1",
-    punctuationColor: "#2E3440",
+    punctuationColor: "#E7EAF1",
     stringAndValueColor: "#A5BE8A",
     keywordTagColor: "#85A1C2",
     commentColor: "#D9DEEA",

@@ -60,7 +60,7 @@ self.__precacheManifest = [
   },
   {
     "url": "themes.js",
-    "revision": "ba9443af925cefbbcf5de6b5f033c632"
+    "revision": "8db2a309464cf4f07df4684cac658f2d"
   },
   {
     "url": "webfontloader.js",
